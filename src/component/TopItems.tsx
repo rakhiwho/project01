@@ -1,4 +1,3 @@
-import React from 'react'
 import "../App.css"
 import"./Style.css";
 import c1 from "../../public/c1.jpg"
